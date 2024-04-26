@@ -1,0 +1,8 @@
+Pour lancer la simulation Poule Renard Vipère, entrez la ligne de commande suivante :
+
+./poulerenardvipere.sh
+
+Un message de bienvenue s'affiche, puis la simulation se lance.
+Lorsque vous fermerez la fenêtre de la simulation, 5 graphes se dessineront automatiquement.
+Des messages s'affichent dans le terminal au fur et à mesure de ces opérations.
+"Au revoir" s'affiche quand toutes les fenêtres ont été fermées.
